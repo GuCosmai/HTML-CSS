@@ -1,0 +1,52 @@
+body {
+    background-color: #29293D	;
+}
+
+.container {
+    padding: 20px;
+    background-color:#545475;
+    width: auto;
+    border: 3px solid #29293D;
+    border-style: dashed;
+    padding-top: 100px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+h1 {
+    text-align: center;
+    font-style: normal;
+    font-size: 2.5em;
+    margin-bottom: 10px;
+    color: white;
+}
+
+h2 {
+    font-style: normal;
+    font-size: 2.5em;
+    margin-bottom: 10px;
+    color: white;
+}
+
+p.apresentacao {
+    text-align: right;
+    font-style: normal;
+    f20pxont-size: 1.2em;
+    margin-bottom: ;
+    color: white;
+}
+p {
+    color: white;
+    font-size: 1.2em;
+    line-height: 1.6;
+}
+
+img.perfil {
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 3px solid #29293D;
+}
